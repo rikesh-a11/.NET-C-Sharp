@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ncit2076\ncit2076\bin\Debug\net6.0\ncit2076.exe
+C:\Users\Acer\source\repos\ncit2076\ncit2076\bin\Debug\net6.0\ncit2076.deps.json
+C:\Users\Acer\source\repos\ncit2076\ncit2076\bin\Debug\net6.0\ncit2076.runtimeconfig.json
+C:\Users\Acer\source\repos\ncit2076\ncit2076\bin\Debug\net6.0\ncit2076.dll
+C:\Users\Acer\source\repos\ncit2076\ncit2076\bin\Debug\net6.0\ncit2076.pdb
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.dll
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\refint\ncit2076.dll
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.pdb
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ncit2076.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ncit2076\ncit2076\obj\Debug\net6.0\ref\ncit2076.dll
