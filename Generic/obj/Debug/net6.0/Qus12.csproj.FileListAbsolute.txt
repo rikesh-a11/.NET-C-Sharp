@@ -1,0 +1,15 @@
+C:\Users\Acer\source\repos\ncit2076\Qus12\bin\Debug\net6.0\Qus12.exe
+C:\Users\Acer\source\repos\ncit2076\Qus12\bin\Debug\net6.0\Qus12.deps.json
+C:\Users\Acer\source\repos\ncit2076\Qus12\bin\Debug\net6.0\Qus12.runtimeconfig.json
+C:\Users\Acer\source\repos\ncit2076\Qus12\bin\Debug\net6.0\Qus12.dll
+C:\Users\Acer\source\repos\ncit2076\Qus12\bin\Debug\net6.0\Qus12.pdb
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.AssemblyInfo.cs
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.dll
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\refint\Qus12.dll
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.pdb
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\Qus12.genruntimeconfig.cache
+C:\Users\Acer\source\repos\ncit2076\Qus12\obj\Debug\net6.0\ref\Qus12.dll
